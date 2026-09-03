@@ -36,5 +36,3 @@ while True:
             break
     else:
         tasks.append(Task(user_input))
-    
-    
